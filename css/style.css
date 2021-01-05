@@ -50,6 +50,11 @@ body{
 /* introduction part end */
 
 /* About part Starts */
+.introduction h2{
+    font-size: 35px;
+    font-family: 'Staatliches', cursive;
+    
+}
 .CV{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon,tomato);
