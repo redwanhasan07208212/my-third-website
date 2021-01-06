@@ -22,9 +22,9 @@ body{
 /* introduction part start */
 .introduction{
     width: 35%;
-    margin: 5%;
     float: left;
-    padding: 2%;
+    margin: 5%;
+    padding: 1%;
 }
 .hello{
     font-size: 45px;
@@ -36,30 +36,29 @@ body{
     color:rgb(252, 144, 132);
     font-family: 'Staatliches', cursive;
 }
-.myself{
-    padding-bottom: 20px;
-}
 .hire{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon,tomato);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
-    margin-bottom: 5px;
 }
 .introduction img{
-    width: 80%;
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
 }
 /* introduction part end */
 
 /* About part Starts */
-.introduction h2{
+h1{
     font-size: 35px;
-    font-family: 'Staatliches', cursive;
-    
+    font-family: 'Staatliches', cursive;  
 }
-.About{
-    padding-bottom: 20px;
+.about{
+    padding-bottom: 50px;
 }
 .CV{
     text-decoration: none;
@@ -68,9 +67,6 @@ body{
     border-radius: 5px;
     color: white;
     margin-bottom: 200px;
-}
-section{
-    padding-bottom: 150px;
 }
 /* About part Ends */
 
@@ -92,7 +88,7 @@ section{
     padding: 1%;
 }
 .image-section img{
-    width:80%;
+    width:100%;
 }
 .image-border{
     box-shadow: 10px 10px 40px;
@@ -100,16 +96,14 @@ section{
     border-radius: 10px;
     margin-left: 5%;
 }
-.img-box{
-    box-shadow: 10px 10px 40px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-/* below part starts */
+/* below part ends */
 
 
 /* Last part starts */
-
+.work{
+    font-size: 30px;
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+}
 
 /* Last part starts  */
