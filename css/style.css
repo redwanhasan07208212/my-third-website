@@ -111,18 +111,19 @@ h1{
     padding: 20px 40px;
     border-radius: 5px;
     color: white;
-    margin-left: 100px;
+    margin-left: 300px;
 }
 .align{
-    width: 35%;
+    width: 40%;
     float: left;
-    margin: 5%;
-    padding: 2%;
+    margin: 0px 450px 0px 450px;
+    padding: 1%;
+    display: inline;
 }
 .work{
-    font-size: 30px;
-    margin-left: 300px;
-    margin-top: 175px;
+    font-size: 50px;
+    margin-left: 0px;
+    margin-top: 200px;
     color: white;
 }
 .last-part{
@@ -130,7 +131,6 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: 55%;
-    margin-bottom: 200px;
 }
 /* Last part starts  */
 
