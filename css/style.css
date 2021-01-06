@@ -1,7 +1,6 @@
 body{
     background-color:rgb(52, 54, 54);
 }
-
 /* heading part start */
 .head {
     text-align: right;
@@ -14,6 +13,10 @@ body{
     padding: 0 20px;
     font-family: 'Pirata One', cursive;
 }
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+}
 /* heading part end */
 
 /* introduction part start */
@@ -21,7 +24,7 @@ body{
     width: 35%;
     margin: 5%;
     float: left;
-    padding: 1%;
+    padding: 2%;
 }
 .hello{
     font-size: 45px;
@@ -45,7 +48,7 @@ body{
     margin-bottom: 5px;
 }
 .introduction img{
-    width: 100%;
+    width: 80%;
 }
 /* introduction part end */
 
@@ -55,15 +58,58 @@ body{
     font-family: 'Staatliches', cursive;
     
 }
+.About{
+    padding-bottom: 20px;
+}
 .CV{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon,tomato);
     padding: 10px 20px;
     border-radius: 5px;
     color: white;
-    margin-bottom: 5px;
+    margin-bottom: 200px;
 }
-.About{
-    padding-bottom: 20px;
+section{
+    padding-bottom: 150px;
 }
 /* About part Ends */
+
+/* below part starts */
+.latest{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    padding:10px;
+    font-size: 15px;
+    color:rgb(115, 141, 167);
+}
+.down{
+    color:rgb(252, 144, 132);
+}
+.image-section{
+    width: 20%;
+    float: left;
+    margin: 5%;
+    padding: 1%;
+}
+.image-section img{
+    width:80%;
+}
+.image-border{
+    box-shadow: 10px 10px 40px;
+    height: 80%;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+.img-box{
+    box-shadow: 10px 10px 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* below part starts */
+
+
+/* Last part starts */
+
+
+/* Last part starts  */
